@@ -1,0 +1,85 @@
+body{
+        background-color: #929ac1;
+      }
+    .navbar{
+      background: black;
+       border-radius: 25px 25px;
+       
+    }
+    .navbar ul{
+      overflow: auto;
+     
+    }
+    .navbar li{
+      float: left;
+      padding: 5px 5px;
+      list-style: none;
+      
+    
+    }
+    .navbar li a{
+      text-decoration: none;
+      color:white;
+    }
+    .navbar li a:hover{
+      color:#93a3f7;
+    }
+    .speech{
+      color: #d7d774;
+      font-size: 20px;
+    }
+    /*
+    .search{
+      float: right;
+      color:green;
+      padding: 12px 5px;
+    }
+    .navbar input{
+      border:2px solid red ;
+      border-radius: 25px 25px;
+      width: 129px;
+      
+    }*/
+    .container h3{
+     color:#617c63;
+     font-style: italic;
+     text-align: center;
+     font-size: 45px;
+    }
+    .from input{
+      border-radius: 25px;
+      height: 15px;
+      width: 125px;
+    }
+    .header img{
+      width:350px ;
+      height: 340px;
+      margin: auto;
+      padding:  70px auto;
+    }
+    .text{
+       font-size: 59px;
+    }
+    img{
+      width: 380px;
+      height: 100px;
+    }
+    .foter{
+      font-size: 30px;
+    }
+    .foter a{
+      text-decoration: none;
+      color: red;
+      font-style: italic;
+    }
+    .foter a:hover{
+      color:green;
+    }
+    #email{
+      color: black;
+      font-size:25px;
+    }
+    #email a{
+      color:red;
+      
+    }
